@@ -3,7 +3,7 @@
  * Plugin Name: Reading Time Calculator
  * Description: A logic-based plugin to estimate reading time.
  * Version: 1.0
- * Author: Your Name
+ * Author: Tannu
  */
 
 // Exit if accessed directly.

@@ -1,0 +1,11 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "modern-lab/basic-block",
+    "title": "Lab Block",
+    "category": "widgets",
+    "icon": "clock",
+    "description": "A simple block ",
+    "textdomain": "modern-lab",
+    "editorScript": "file:./index.js"
+}
